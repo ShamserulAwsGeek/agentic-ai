@@ -1,6 +1,17 @@
 langchain
 langchain_community
+langchain-core
 langchain_openai
 langchain-groq
+langchain-mcp-adapters
+mcp
 python-dotenv
 langchain-google-genai
+langgraph
+langsmith
+langchain_tavily
+azure-identity
+openai
+httpx
+pypdf
+pymupdf

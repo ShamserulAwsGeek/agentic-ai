@@ -15,3 +15,11 @@ openai
 httpx
 pypdf
 pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+
+#Library for deep agents : (This one is from langchain community)
+deepagents
+tavily-python
+

@@ -23,3 +23,8 @@ chromadb
 deepagents
 tavily-python
 
+#web parsing library:
+beautifulsoup4
+
+#llm-gateways:
+litellm

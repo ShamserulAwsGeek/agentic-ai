@@ -258,6 +258,6 @@ If this project helps you learn or build, consider giving it a ⭐ — it helps 
 
 <div align="center">
 
-**Built with ❤️ for the AI engineering community**
+**Built with Shamserul ❤️ for the AI engineering community**
 
 </div>
